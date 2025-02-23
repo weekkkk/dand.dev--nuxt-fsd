@@ -1,0 +1,17 @@
+{
+  "name": "@dand.dev/nuxt-fsd",
+  "version": "1.0.1",
+  "description": "A Nuxt 3 module for FSD",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "peerDependencies": {
+    "nuxt": "^3.15.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.7",
+    "typescript": "^5.7.3"
+  }
+}
