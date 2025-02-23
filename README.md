@@ -1,10 +1,10 @@
 # @dand.dev/nuxt-fsd
 
-Nuxt 3 Module for FSD with auto import support
+Nuxt 3 Module for FSD with auto import support.
 
 # Initialization
 
-Install module
+Install module.
 
 ```bash pnpm
 npm i @dand.dev/nuxt-fsd
