@@ -1,6 +1,6 @@
 {
   "name": "@dand.dev/nuxt-fsd",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A Nuxt 3 module for FSD",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
